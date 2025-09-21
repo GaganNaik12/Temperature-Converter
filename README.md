@@ -1,1 +1,2 @@
 # Temperature-Converter
+Developed a temperature converter website as part of my internship tasks. The application allows users to input a temperature in either Celsius or Fahrenheit and instantly converts it to the other unit. Built using HTML, CSS, and JavaScript, the project includes input validation, a user-friendly interface, and responsive design. This project demonstrates my understanding of basic JavaScript logic, DOM manipulation, and UI design while building functional and interactive web applications.
